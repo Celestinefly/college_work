@@ -1,4 +1,4 @@
 - PPT.md文件是VsCode生成贪吃蛇演示代码PPT.pdf的源文件
 - code08.py是小游戏的Python文件
 - Python贪吃蛇代码演示视频.zip是小游戏运行的演示视频
-- 贪吃蛇演示代码PPT.pdf文件可能在github上面不支持预览，需要在pdf界面选择download下来该文件
+- 贪吃蛇演示代码PPT.pdf文件可能在github上面不支持预览，需要在pdf界面选择download该文件
